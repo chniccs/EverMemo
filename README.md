@@ -1,5 +1,8 @@
 EverMemo[![Build Status](https://travis-ci.org/daimajia/EverMemo.png?branch=master)](https://travis-ci.org/daimajia/EverMemo)
 ========
+I love this app,but an error is encountered when running my smartisan m1,so i want to fix it.
+
+----------
 
 The simplest memo app.
 
@@ -15,27 +18,12 @@ Desgined By [Plidezus](http://www.plidezus.com/) in Shanghai , Coded by [Me](htt
 
 ![EverMemo](http://ww2.sinaimg.cn/mw690/610dc034jw1ect83b4az8j20eq0hlwgb.jpg)
 
-----------
 
-How to build?
----------
 
-Step1:	run `./gradlew clean build` in root directory.
 
 -------------
 
-if you meet some problems when build this project, please feel free to [contact me](mailto:daimajia@gmail.com) or set up an issue. I'm very glad to receive from you. : )
+if you meet some problems when build this project, please feel free to [contact me](mailto:chniccs@gmail.com) or set up an issue. I'm very glad to receive from you. : )
 
 
-About me
----------
 
-A student in [Beijing Normal University](http://en.wikipedia.org/wiki/Beijing_Normal_University),be crazy about CS, and just want to make a good app. 
-
-*	[EverMemo Facebook](https://www.facebook.com/evermemoapp)
-*	[Plidezus Blog](http://www.plidezus.com/)
-*	[My Blog](http://daimajia.com)
-*	[My Twitter](https://twitter.com/daimajia)
-*	[My Weibo](http://weibo.com/daimajia)
-*	[Google plus](https://plus.google.com/)
-*	[Just talk with me](mailto:daimajia@gmail.com)
